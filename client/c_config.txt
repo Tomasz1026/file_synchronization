@@ -1,0 +1,3 @@
+/mnt/hgfs/shared_folder/sk2_projekt/client_f
+127.0.0.1
+1234
