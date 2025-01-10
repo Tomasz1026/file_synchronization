@@ -7,9 +7,11 @@ Final project for the subject Computer networks 2 carried out at the Poznań Uni
 Najpierw w plikach konfiguracyjnych *"s_config.txt"* oraz *"c_config.txt"* trzeba zmienić ścieżki folderów na swoje (pliki znajdują się w folderach *server* oraz *client*).
 
 **Dla s_config.txt**
+
 Pierwsza linia zawiera ścieżkę do folderu, druga linia zawiera numer portu.
 
 **Dla c_config.txt**
+
 Pierwsza linia zawiera ścieżkę do folderu, druga linia zawiera adres IP serwera, a trzecia linia zawiera numer portu.
 
 ```
@@ -34,3 +36,8 @@ cd build
 cd build
 ./client client_config.txt
 ```
+
+## Autorzy
+**Tomasz Kaczmarek - 155903
+
+**Kacper Złotowski - 156008
