@@ -38,6 +38,6 @@ cd build
 ```
 
 ## Autorzy
-**Tomasz Kaczmarek - 155903
+**Tomasz Kaczmarek - 155903**
 
-**Kacper Złotowski - 156008
+**Kacper Złotowski - 156008**
